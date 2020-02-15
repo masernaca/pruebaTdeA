@@ -70,3 +70,23 @@ ademas de la sintaxis para listas se agrega [ ], [x],o [X]
 * [ ] marco teórico
 * [ ] Justificación
 
+### tablas
+Se utiliza el simbolo | para sepearar los elementos por columnas: titulo1 | titulo2, luego --|-- y se agregan los elementos separados con |, a continuación el código
+
+~~~
+titulo1|titulo2
+valora|valorb
+valorc|valord
+~~~
+El resultado sería
+
+titulo1|titulo2
+---|---
+valora|valorb
+valorc|valord
+
+
+###Enlaces
+Entre corchetes agregamos el nombre del enlace **[buscar]** y a continuación entre 
+
+###Imagenes
