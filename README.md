@@ -87,6 +87,23 @@ valorc|valord
 
 
 ###Enlaces
-Entre corchetes agregamos el nombre del enlace **[buscar]** y a continuación entre 
+Entre corchetes agregamos el nombre del enlace **[buscar]** y a continuación entre parentesis la URL **(http://www.google.com)** mediante el siguiente código:
+
+~~~
+[buscar](http://www.google.com)
+~~~
+[buscar](http://www.google.com)
 
 ###Imagenes
+la manera de enlazar iumagenes es basicamente la misma de crear enlaces, con un unica diferencia, se añade el caracter exclamación ! al principio de la pareja de corchetes que definen el nombre del enlace.
+La imagen se puede cargar en una arpeta GitHub de forma que entre corchetes se agregue la ruta, por ejemplo_
+imagenes/tres.jg
+
+Al generar el siguiente código:
+~~~
+![uno](Imagenes/bicicleta.jpg "ejemplo")
+~~~
+Se carga la imagen
+
+![uno](Imagenes/bicicleta.jpg "Bicicleta")
+
