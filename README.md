@@ -1,0 +1,2 @@
+# pruebaTdeA
+repocitorio_TdeA_Tendencias_de_Software
